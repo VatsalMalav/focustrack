@@ -1,0 +1,5 @@
+models/
+assets/alarm.wav
+snapshots/
+__pycache__/
+*.pyc
